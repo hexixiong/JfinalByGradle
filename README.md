@@ -1,0 +1,2 @@
+# JfinalByGradle
+用gradle完成jfinal项目脚手架搭建
